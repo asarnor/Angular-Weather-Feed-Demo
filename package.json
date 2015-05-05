@@ -1,0 +1,15 @@
+{
+  "name": "weatherApp",
+  "version": "0.0.1",
+  "description": "weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "angular"
+  ],
+  "author": "Abdul Sarnor",
+  "license": "ISC"
+}
